@@ -18,13 +18,13 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 
 ## 💼 Projects
 
-### 🧮 Opulens: Personal Financial Budgeting Website
-- Built with **Python, Django, PostgreSQL, Tableau
+### 🧮 Opulens: Personal Financial Budgeting Website (TBF)
+- Built with **Python, Django, PostgreSQL, Tableau**
 - Provides budgeting tools and interactive visualizations for users.
 - Currently expanding to process **user-input information** and deliver personalized insights.
 - Hosted on **AWS** with near-perfect front-end implementation.
 
-### 📊 Macroeconomic Forecasting
+### 📊 Macroeconomic Forecasting (In Progress)
 - **Analysis**: Studying GDP and Real GDP (GDPC1) trends.
 - **Tools**: Python/R and Jupyter Notebook.
 - **Purpose**: Deliver a detailed economic analysis to aid decision-making.
