@@ -36,7 +36,8 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 ### 📖 AI-Assisted Flashcard Creation Application for Students (Idea Stage)
 - App to scan book pages and create tailored questions for efficient learning.
 - Potential subscription model targeting TikTok’s education space.
-
+- Team-based Project with Melvin Riise (https://github.com/kaiserdevelops)
+- 
 
 ## 💻 Tech Stack
 
