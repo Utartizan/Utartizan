@@ -18,18 +18,18 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 
 ## 💼 Projects
 
-### 📈 Quantitative Momentum Strategy
+### 📈 Quantitative Momentum Strategy (100%)
 - Built using Python Machine Learning Libraries
 - Provides a specialised S&P500 portfolio given realistic constraints containing stocks with the highest past momentum
 - Made using PyCharm and Jupyter Notebook.
-- 
-### 🧮 Opulens: Personal Financial Budgeting Website
+
+### 🧮 Opulens: Personal Financial Budgeting Website (70%)
 - Built with **Python, Django, PostgreSQL, Tableau**
 - Provides budgeting tools and interactive visualizations for users.
 - Currently expanding to process **user-input information** and deliver personalised insights.
 - Hosted on **AWS** with near-perfect front-end implementation (aborted due to costs for the time being).
 
-### 📖 Volatility Index Analysis with Google Trends
+### 📖 Volatility Index Analysis with Google Trends (90%)
 - Built using R Code
 - Explores the relationship between the Volatility Index (VIX), and other various American Markets and Google Trends data on financial search terms to improve financial forecasting.
 - Utilises various machine learning and statistical models to enhance and evaluate prediction accuracy.
