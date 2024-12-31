@@ -10,36 +10,38 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 
 - 📚 **Final Year Modules**: Advanced Corporate Reporting, Applied Econometrics, Corporate Finance, and Climate Economics and Finance.
 - 🎓 **Academic Achievements**: Multiple first-class marks and a strong academic record several Accounting & Economics modules.
-- 🌱 **Currently Learning**: Data engineering techniques, Python, TensorFlow, and machine learning models to deepen my technical expertise.
-- 👨‍💻 **Future Goals**: Becoming a **Data Engineer** to contribute to and lead impactful projects in the intersection of finance, sustainability, and technology.
+- 🌱 **Currently Learning**: Data engineering techniques, Python, TensorFlow, and machine learning models to deepen technical expertise.
+- 👨‍💻 **Future Goals**: Becoming a **Data Scientist** to contribute to and lead impactful projects in the intersection of finance, sustainability, and technology.
 - 📖 **Interests**: Hardware Engineering, Formula 1, Investment Banking, Keyboards
 
 ---
 
 ## 💼 Projects
 
-### 🧮 Opulens: Personal Financial Budgeting Website (TBF)
+### 📈 Quantitative Momentum Strategy
+- Built using Python Machine Learning Libraries
+- Provides a specialised S&P500 portfolio given realistic constraints containing stocks with the highest past momentum
+- Made using PyCharm and Jupyter Notebook.
+- 
+### 🧮 Opulens: Personal Financial Budgeting Website
 - Built with **Python, Django, PostgreSQL, Tableau**
 - Provides budgeting tools and interactive visualizations for users.
-- Currently expanding to process **user-input information** and deliver personalized insights.
-- Hosted on **AWS** with near-perfect front-end implementation.
+- Currently expanding to process **user-input information** and deliver personalised insights.
+- Hosted on **AWS** with near-perfect front-end implementation (aborted due to costs for the time being).
 
-### 📊 Macroeconomic Forecasting (In Progress)
-- **Analysis**: Studying GDP and Real GDP (GDPC1) trends.
-- **Tools**: Python/R and Jupyter Notebook.
-- **Purpose**: Deliver a detailed economic analysis to aid decision-making.
+### 📖 Volatility Index Analysis with Google Trends
+- Built using R Code
+- Explores the relationship between the Volatility Index (VIX), and other various American Markets and Google Trends data on financial search terms to improve financial forecasting.
+- Utilises various machine learning and statistical models to enhance and evaluate prediction accuracy.
+  
+### 🧗🏽‍♂️ Real-Time Automated Trading Algorithm using Alpaca API (Planning Stage)
+- Look to either be using the latest NVIDIA Nano Super Orin (Linux) or just a standard Mac Mini M4
+- May have to look into abandoning Alpaca APIs in general and switch to C/C++ for performance/latency purposes
+  
 
-### 🏎️ Formula 1 Data Engineering Project (Coming Soon)
-- Crafting data pipelines and visualizations for F1 enthusiasts.
-- Aiming to integrate **real-time data feeds** and **machine learning insights**.
 
-### 📖 AI-Assisted Flashcard Creation Application for Students (Idea Stage)
-- App to scan book pages and create tailored questions for efficient learning.
-- Potential subscription model targeting TikTok’s education space.
-- Team-based Project with Melvin Riise (https://github.com/kaiserdevelops)
-- 
-
-## 💻 Tech Stack
+  
+## 💻 Skills
 
 - **Languages**: Python, R, SQL
 - **Frameworks & Tools**: TensorFlow, Django, Tableau
@@ -54,10 +56,8 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ubayd-knight-302656251/)  
 - ✉️ Email: u2281887@unimail.hud.ac.uk
-- 🌐 Portfolio Website: [Coming Soon]
+- 
 ---
-
-Feel free to explore my repositories and reach out for collaboration or opportunities to innovate together. Let’s build something great! 🚀
 
 <!---
 Utartizan/Utartizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
