@@ -12,7 +12,7 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 - 🎓 **Academic Achievements**: Multiple first-class marks and a strong academic record several Accounting & Economics modules.
 - 🌱 **Currently Learning**: Data engineering techniques, Python, TensorFlow, and machine learning models to deepen technical expertise.
 - 👨‍💻 **Future Goals**: Becoming a **Data Scientist** to contribute to and lead impactful projects in the intersection of finance, sustainability, and technology.
-- 📖 **Interests**: Hardware Engineering, Formula 1, Investment Banking, Keyboards
+- 📖 **Interests**: Working with Data, Being a Competitive Person in General, Hardware Engineering, Formula 1, Investment Banking, Keyboards
 
 ---
 
