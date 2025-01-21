@@ -18,6 +18,13 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 
 ## 💼 Projects
 
+### 🔢Encoder-Decoder Generative Training Model (40%)
+- Built mainly with Python, Torch, and Tensor under a JupyterLab environment.
+- Tokenises text at the character level, creating a basic vocabulary.
+- Encodes and decodes text using a custom mapping.
+- Prepares data for model training with sequences and targets. (Needs refinement as of 21/01/2025)
+- Implementing a basic neural network model for character prediction, showcasing the use of embeddings and cross-entropy loss for training.
+
 ### 📈 Quantitative Momentum Strategy (100%)
 - Built using Python Machine Learning Libraries
 - Provides a specialised S&P500 portfolio given realistic constraints containing stocks with the highest past momentum
