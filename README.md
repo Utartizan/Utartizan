@@ -2,7 +2,11 @@
 
 ![Hello Gif](https://media1.tenor.com/m/BbZnw0Mc1mUAAAAd/crow-smart.gif)
 
-My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at the University of Huddersfield**, attempting to make something big from my passion in data science, machine learning, and financial analysis. What you see here is a start to my (hopefully) wonderful journey heading into the ultra-competitive industry of Data Science. Here's a glimpse into what I'm all about:
+My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at the University of Huddersfield**, attempting to make something big from my passion in data science, machine learning, and analysis. 
+
+Therefore, what you see here is solely the result of a combination of utmost interest and uncapped passion of everything related to code and data. 
+
+Here's a glimpse into my journey heading into the ultra-competitive industry of Data Science:
 
 ---
 
