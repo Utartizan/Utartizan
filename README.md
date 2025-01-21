@@ -8,10 +8,10 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 
 ## 🚀 About Me
 
-- 📚 **Final Year Modules**: Advanced Corporate Reporting, Applied Econometrics, Corporate Finance, and Climate Economics and Finance.
-- 🎓 **Academic Achievements**: On track to achieving a target of a First-Class Grade with multiple first-class marks and a strong academic record several Accounting & Economics modules.
-- 🌱 **Currently Learning**: Data science techniques, Deep Learning, Advanced Python, TensorFlow, and machine learning models.
-- 👨‍💻 **Future Goals**: Becoming a **Data Scientist** to contribute to and lead impactful projects in the intersection of finance, sustainability, and technology.
+- 📚 **University**: I am a **Student Ambassador**, studying a **BSc Degree in Accounting and Economics at the University of Huddersfield**. Currently I am planning on locating a graduate scheme with plans to continue towards a Masters degree within 5 years.
+- 🎓 **Academic Achievements**: On track to achieving a target of a **First-Class Grade** with multiple first-class marks and a strong academic record on several Accounting & Economics modules.
+- 🌱 **Currently Learning**: Data science techniques, Deep Learning, Advanced Python, TensorFlow, and Swift. Outside of Data, I'm also learning how to become a better sim racer as well as a competitive gamer (I recently reached Top 1500 Globally at a competitive first-person-shooter game).
+- 👨‍💻 **Future Goals**: Becoming a **Data Scientist** at a renowned firm to contribute to and lead impactful projects in at any industry that involves finance, sustainability, or technology.
 - 📖 **Interests and Hobbies**: Working with Data, Simulator Racing, Actively Engaging in Friendly Competitions, Hardware Engineering, Formula 1, Stock Trading, and Mechanical Keyboards.
 
 ---
