@@ -1,4 +1,4 @@
-# Welcome to my profile! 👋 (To be updated by 21/01/2025 13:00 UK)
+# Welcome to my profile! 👋
 
 ![Hello Gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pmM3djdzh0YjExYXEwNWIwcWg2czM0ODYyMzQyaWtyaG4zZzh1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xtrylJlBHrUVgnUEuA/giphy.gif)
 
