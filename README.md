@@ -2,17 +2,17 @@
 
 ![Hello Gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pmM3djdzh0YjExYXEwNWIwcWg2czM0ODYyMzQyaWtyaG4zZzh1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xtrylJlBHrUVgnUEuA/giphy.gif)
 
-My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at the University of Huddersfield**, attempting to make something big from my passion in data analytics, machine learning, and financial analysis with a strong foundation in corporate reporting and econometrics. Here's a glimpse into what I'm all about:
+My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at the University of Huddersfield**, attempting to make something big from my passion in data science, machine learning, and financial analysis. What you see here is a start to my (hopefully) wonderful journey heading into the ultra-competitive industry of Data Science. Here's a glimpse into what I'm all about:
 
 ---
 
 ## 🚀 About Me
 
 - 📚 **Final Year Modules**: Advanced Corporate Reporting, Applied Econometrics, Corporate Finance, and Climate Economics and Finance.
-- 🎓 **Academic Achievements**: Multiple first-class marks and a strong academic record several Accounting & Economics modules.
-- 🌱 **Currently Learning**: Data engineering techniques, Python, TensorFlow, and machine learning models to deepen technical expertise.
+- 🎓 **Academic Achievements**: On track to achieving a target of a First-Class Grade with multiple first-class marks and a strong academic record several Accounting & Economics modules.
+- 🌱 **Currently Learning**: Data science techniques, Deep Learning, Advanced Python, TensorFlow, and machine learning models.
 - 👨‍💻 **Future Goals**: Becoming a **Data Scientist** to contribute to and lead impactful projects in the intersection of finance, sustainability, and technology.
-- 📖 **Interests**: Working with Data, Being a Competitive Person in General, Hardware Engineering, Formula 1, Investment Banking, Keyboards
+- 📖 **Interests and Hobbies**: Working with Data, Simulator Racing, Actively Engaging in Friendly Competitions, Hardware Engineering, Formula 1, Stock Trading, and Mechanical Keyboards.
 
 ---
 
@@ -29,16 +29,14 @@ My name is Ubayd Knight. I'm an **Accounting & Economics final-year student at t
 - Currently expanding to process **user-input information** and deliver personalised insights.
 - Hosted on **AWS** with near-perfect front-end implementation (aborted due to costs for the time being).
 
-### 📖 Volatility Index Analysis with Google Trends (90%)
+### 📖 US Market Index Analysis with Google Trends (100%)
 - Built using R Code
-- Explores the relationship between the Volatility Index (VIX), and other various American Markets and Google Trends data on financial search terms to improve financial forecasting.
-- Utilises various machine learning and statistical models to enhance and evaluate prediction accuracy.
+- Explores the relationship between various US Indices including the Volatility Index (VIX), with Google Trends data regarding both economical and financial search terms to test whether or not it'll be sufficient for forecasting.
+- Utilises various machine learning and statistical models and theories to enhance, validate, and evaluate prediction accuracy.
   
 ### 🧗🏽‍♂️ Real-Time Automated Trading Algorithm using Alpaca API (Planning Stage)
 - Look to either be using the latest NVIDIA Nano Super Orin (Linux) or just a standard Mac Mini M4
 - May have to look into abandoning Alpaca APIs in general and switch to C/C++ for performance/latency purposes
-  
-
 
   
 ## 💻 Skills
