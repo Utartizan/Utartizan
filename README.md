@@ -12,9 +12,9 @@ Here's a glimpse into my journey heading into the ultra-competitive industry of 
 
 ## 🚀 About Me
 
-- ❗ **Innovator**: Before moving onto anything, I take pride in being a massive innovator and always learning about what could change the future. I'm planning on creating a useful application for **equity research, investment analysis, or portfolio management teams** with a small team. My ultimate goal is to exceed my own set boundaries/expectations and create as much value within the finance/data industries as much as possible.
+- ❗ **Innovator**: Before moving onto anything, I take pride in being a **massive innovator** and always learning about what could change the future. I'm planning on creating a useful application for **equity research, investment analysis, or portfolio management teams** with a small team. My ultimate goal is to exceed my own set boundaries/expectations and create as much value within the finance/data industries as much as possible.
 - 📚 **University**: I am a **Student Ambassador**, studying a **BSc Degree in Accounting and Economics at the University of Huddersfield**. Currently I am planning on locating a graduate scheme with plans to continue towards a Masters degree within 5 years.
-- 🎓 **Academic Achievements**: On track to achieving a target of a **First-Class Grade** with multiple first-class marks and a strong academic record on several Accounting & Economics modules.
+- 🎓 **Academic Achievements**: On track to achieving a target of a **high Second-Class Grade** with multiple first-class marks and a strong academic record on several Accounting & Economics modules.
 - 🌱 **Currently Learning**: Data science techniques, Deep Learning, Advanced Python, TensorFlow, and Swift. Outside of Data, I'm also learning how to become a better sim racer as well as a competitive gamer (I recently reached Top 1500 Globally at a competitive first-person-shooter game).
 - 👨‍💻 **Future Goals**: Becoming a **Data Scientist** at a renowned firm to contribute to and lead impactful projects in at any industry that involves finance, sustainability, or technology.
 - 📖 **Interests and Hobbies**: Working with Data, Simulator Racing, Actively Engaging in Friendly Competitions, Hardware Engineering, Formula 1, Stock Trading, and Mechanical Keyboards.
