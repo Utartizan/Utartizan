@@ -27,7 +27,7 @@ Here's a glimpse into my journey heading into the ultra-competitive industry of 
 - A Streamlit Cloud hosted Website built with Python, retrieving 10-year stock data from yFinance, processed by Pandas and NumPy, with statistical modelling from Arch and Statsmodels libraries, visualised by Plotly.
 - Returns historical volatility (21-day rolling, annualised) and GARCH-forecasted volatility.
 - Displays a mini stock plot for the users selected stock ticker on the sidebar.
-- Runs four tests (ARCH-LM, Sign Bias, Ljung-Box, Garch Stability) to see if the predictive GARCH model fits the stock’s volatility well.
+- Runs four separate tests (ARCH-LM, Sign Bias, Ljung-Box, Garch Stability) to see if the predictive GARCH model fits the stock’s volatility well.
 
 ### 📈 [Quantitative Momentum Strategy](https://github.com/Utartizan/Quantitative-Momentum-Strategy)
 - Built a finance algorithm utilising Python libraries (NumPy, Pandas, SciPy) to generate an optimised stock portfolio (S&P500) based on price momentum.
