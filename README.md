@@ -2,12 +2,12 @@
 
 <p align="left">
   <a href="https://github.com/Utartizan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Utartizan&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Utartizan&show_icons=true&rank_icon=github&theme=dracula" alt="Your GitHub Stats" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/Utartizan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utartizan&layout=compact&theme=dracula" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utartizan&hide=Limbo,TeX&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
